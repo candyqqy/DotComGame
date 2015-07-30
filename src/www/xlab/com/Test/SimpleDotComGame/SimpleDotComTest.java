@@ -5,7 +5,6 @@ import www.xlab.com.main.SimpleDotComGame.SimpleDotCom;
 
 import java.util.ArrayList;
 
-import static org.junit.Assert.*;
 
 /**
  * Created by qqy on 15/7/22.
